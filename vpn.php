@@ -11,7 +11,9 @@ PAKYAVPN OVPN is a free and VIP  app for those who want to access Internet secur
 What we privode in our app
 
 🟡 DIGI 🇸🇬 🔜
-
+🇸🇬NO MULTI LOGIN 🇸🇬
+🇸🇬NO TORREN 🇸🇬
+🇸🇬NO DDOS 🇸🇬
 
 Our server location
 🇸🇬 🔜
