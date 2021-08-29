@@ -1,6 +1,6 @@
 {
 //Versi untuk mengemas kini, jika ada kemas kini, perlu menukar lebih banyak nombor daripada sebelumnya.
-"Version":"1.2
+"Version":"1.3
 
 🙏 WELCOME TO PAKYAVPN OVPN🙏
 
@@ -11,6 +11,9 @@ PAKYAVPN OVPN is a free and VIP  app for those who want to access Internet secur
 What we privode in our app
 
 🟡 DIGI 🇸🇬 🔜
+🇸🇬NO MULTI LOGIN🇸🇬
+🇸🇬NO TORREN🇸🇬
+🇸🇬NO DDOS🇸🇬
 
 
 Our server location
