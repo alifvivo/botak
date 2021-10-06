@@ -1,6 +1,6 @@
 {
 //Versi untuk mengemas kini, jika ada kemas kini, perlu menukar lebih banyak nombor daripada sebelumnya.
-"Version":"1.7
+"Version":"1.8
 
 🙏 WELCOME TO PAKYAVPN OVPN🙏
 
