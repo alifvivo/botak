@@ -1,33 +1,33 @@
 {
 //Versi untuk mengemas kini, jika ada kemas kini, perlu menukar lebih banyak nombor daripada sebelumnya.
-"Version":"1.10
+"Version":"1.11
 
-🙏 WELCOME TO PAKYAVPN OVPN🙏
+🙏 WELCOME TO VPN LEGASI OVPN🙏
 
-            PAKYA  VPN Stable
+            LEGASI  VPN Stable
 
-PAKYAVPN OVPN is a free and VIP  app for those who want to access Internet securely and get more faster download speed. 
+VPN LEGASI OVPN is a free and VIP  app for those who want to access Internet securely and get more faster download speed. 
 
 What we privode in our app
 
-🟡 DIGI 🇸🇬 🔜
-🇸🇬NO MULTI LOGIN 🇸🇬
-🇸🇬NO TORREN 🇸🇬
-🇸🇬NO DDOS 🇸🇬
+🟡 DIGI  🇲🇾
+🇲🇾NO MULTI LOGIN 🇲🇾
+🇲🇾NO TORREN 🇲🇾
+🇲🇾NO DDOS 🇲🇾
 
-🔴 MAXIS 🇸🇬 🔜
-🇸🇬NO MULTI LOGIN 🇸🇬
-🇸🇬NO TORREN 🇸🇬
-🇸🇬NO DDOS 🇸🇬
+🔴 MAXIS TV 🇲🇾
+🇲🇾NO MULTI LOGIN 🇲🇾
+🇲🇾NO TORREN 🇲🇾
+🇲🇾NO DDOS 🇲🇾
 
-🟠 UMOBILE 🇸🇬 🔜
-🇸🇬NO MULTI LOGIN 🇸🇬
-🇸🇬NO TORREN 🇸🇬
-🇸🇬NO DDOS 🇸🇬
+🟠 UMOBILE 🇲🇾
+🇲🇾NO MULTI LOGIN 🇲🇾
+🇲🇾NO TORREN 🇲🇾
+🇲🇾NO DDOS 🇲🇾
 
 
 Our server location
-🇸🇬 🔜
+🇲🇾 
 
 Please choose the nearest server to your location for connection stability and get high-speed performance 
 
